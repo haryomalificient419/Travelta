@@ -4,8 +4,8 @@ Travel log app based on https://altcampus.school/posts/10-full-stack-beginner-pr
 
 This app will allow people to:-
 
-Browse travel experience of other people
-Add their own experience
+Browse travel experience of other people//
+Add their own experience//
 Travellers can add multiple factors about an experience
 location
 images for locations
